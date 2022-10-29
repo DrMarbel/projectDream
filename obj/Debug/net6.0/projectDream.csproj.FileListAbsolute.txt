@@ -1,0 +1,15 @@
+D:\Projects\Programming\projectDream\obj\Debug\net6.0\projectDream.csproj.AssemblyReference.cache
+D:\Projects\Programming\projectDream\obj\Debug\net6.0\projectDream.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Programming\projectDream\obj\Debug\net6.0\projectDream.AssemblyInfoInputs.cache
+D:\Projects\Programming\projectDream\obj\Debug\net6.0\projectDream.AssemblyInfo.cs
+D:\Projects\Programming\projectDream\obj\Debug\net6.0\projectDream.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\projectDream\bin\Debug\net6.0\projectDream.exe
+D:\Projects\Programming\projectDream\bin\Debug\net6.0\projectDream.deps.json
+D:\Projects\Programming\projectDream\bin\Debug\net6.0\projectDream.runtimeconfig.json
+D:\Projects\Programming\projectDream\bin\Debug\net6.0\projectDream.dll
+D:\Projects\Programming\projectDream\bin\Debug\net6.0\projectDream.pdb
+D:\Projects\Programming\projectDream\obj\Debug\net6.0\projectDream.dll
+D:\Projects\Programming\projectDream\obj\Debug\net6.0\refint\projectDream.dll
+D:\Projects\Programming\projectDream\obj\Debug\net6.0\projectDream.pdb
+D:\Projects\Programming\projectDream\obj\Debug\net6.0\projectDream.genruntimeconfig.cache
+D:\Projects\Programming\projectDream\obj\Debug\net6.0\ref\projectDream.dll
